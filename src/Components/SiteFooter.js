@@ -3,7 +3,7 @@ import React from "react";
 
 function SiteFooter() {
   return (
-    <div className="border w-full bg-black flex flex-1 md:h-96 lg:h-96 h-96 justify-between">
+    <div className="border w-full bg-black flex sm:flex-col flex-1 md:h-96 lg:h-96 justify-between">
       <div className="w-1/2 text-left ml-20 p-5 mt-5 sm:ml-5 sm:p-0 sm:mt-6">
         <a href="http://localhost:3000/">
           <span className="border-2 border-orange-500 text-orange-500 p-2 rounded-sm">
