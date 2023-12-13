@@ -49,7 +49,7 @@ function HighlightSection() {
                 </span>
               </p>
             </div>
-            <div className="gap-5 sm:gap-3 flex m-10 justify-start sm:flex sm:m-4">
+            <div className="gap-5 sm:gap-3 flex m-10 justify-start sm:flex sm:m-4 sm:px-6">
               <button className="bg-gray-200 text-blue-700 p-3 sm:p-1 rounded-md">
                 Timely Execution
               </button>

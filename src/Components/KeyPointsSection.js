@@ -12,7 +12,7 @@ function KeyPointsSection() {
           Get in Touch!
         </button>
       </div>
-      <div className="w-1/2 flex">
+      <div className="w-1/2 flex sm:justify-between sm:mx-14">
         <div className="">
           <div className="w-64 h-40 sm:w-36 sm:h-36 m-5 sm:m-2 rounded-md bg-white flex justify-center align-middle">
             <h2 className="mt-10 text-center text-blue-900 text-5xl font-bold">
