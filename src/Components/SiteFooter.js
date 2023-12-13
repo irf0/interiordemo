@@ -20,11 +20,11 @@ function SiteFooter() {
       </div>
       <div className="w-1/2 mt-5 p-5 flex flex-col align-middle text-left">
         <h2 className="font-bold text-xl text-white">Let's Connect</h2>
-        <button className="border-2 md:w-64 lg:w-64 xl:w-64 mt-3 border-white rounded-lg p-2 hover:border-orange-500 text-white">
+        <button className="border-2 w-64 mt-3 border-white rounded-lg p-2 hover:border-orange-500 text-white">
           <Call />
           +91 1234567890
         </button>
-        <button className="border-2 md:w-64 lg:w-64 xl:w-64 mt-3 border-white rounded-lg p-2 hover:border-orange-500 text-white">
+        <button className="border-2 w-64 mt-3 border-white rounded-lg p-2 hover:border-orange-500 text-white">
           <Email />
           abcinteriors@gmail.com
         </button>

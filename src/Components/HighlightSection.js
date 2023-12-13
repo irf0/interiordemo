@@ -49,14 +49,14 @@ function HighlightSection() {
                 </span>
               </p>
             </div>
-            <div className="gap-5 sm:gap-3 flex m-10 justify-start sm:m-4 sm:-ml-8">
-              <button className="bg-gray-200 text-blue-700 p-3 sm:p-1 rounded-md">
+            <div className="gap-5 sm:gap-3 flex m-10 justify-start sm:m-4 sm:-ml-5">
+              <button className="bg-gray-200 text-blue-700 p-3 sm:p-1 rounded-md sm:w-28 sm:text-sm">
                 Timely Execution
               </button>
-              <button className="bg-gray-200 text-blue-700 p-3 sm:p-1 rounded-md">
+              <button className="bg-gray-200 text-blue-700 p-3 sm:p-1 rounded-md sm:w-28 sm:text-sm">
                 Cost Effective
               </button>
-              <button className="bg-gray-200 text-blue-700 p-3 sm:p-1 rounded-md">
+              <button className="bg-gray-200 text-blue-700 p-3 sm:p-1 rounded-md sm:w-28 sm:text-sm">
                 Technology Driven
               </button>
             </div>

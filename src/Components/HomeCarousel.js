@@ -25,7 +25,7 @@ function HomeCarousel() {
           alt="Your Image"
           className="w-full h-600 sm:h-370 opacity-60"
         />
-        <div className="absolute top-1/3 mt-24 left-1/2 transform -translate-x-1/2 sm:-translate-x-1/3 -translate-y-1/2 text-white sm:text-left text-center md:justify-center lg:justify-center align-middle rounded-md">
+        <div className="absolute top-1/3 mt-24 left-1/2 sm:left-1/3 transform -translate-x-1/2 sm:transform sm:-translate-x-1/3 -translate-y-1/2 text-white sm:text-left text-center md:justify-center lg:justify-center align-middle rounded-md">
           <div className="sm:mt-1">
             <h1 className="text-5xl sm:text-lg font-extrabold text-center">
               Welcome to{" "}
