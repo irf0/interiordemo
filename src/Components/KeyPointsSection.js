@@ -12,19 +12,19 @@ function KeyPointsSection() {
           Get in Touch!
         </button>
       </div>
-      <div className="w-1/2 flex sm:justify-between sm:mx-14">
+      <div className="w-1/2 flex sm:justify-between sm:ml-6">
         <div className="">
           <div className="w-64 h-40 sm:w-36 sm:h-36 m-5 sm:m-2 rounded-md bg-white flex justify-center align-middle">
             <h2 className="mt-10 text-center text-blue-900 text-5xl font-bold">
               7+ <br />
-              <span className="text-base">Years of Experience</span>
+              <span className="text-base sm:text-sm">Years of Experience</span>
             </h2>
           </div>
 
           <div className="w-64 h-40 sm:w-36 sm:h-36 m-5 sm:m-2 rounded-md bg-white flex justify-center align-middle">
             <h2 className="mt-10 text-center text-blue-900 text-5xl font-bold">
               450+ <br />
-              <span className="text-base">Successful Projects</span>
+              <span className="text-base sm:text-sm">Successful Projects</span>
             </h2>
           </div>
         </div>
@@ -33,14 +33,14 @@ function KeyPointsSection() {
           <div className="w-64 h-40 sm:w-36 sm:h-36 m-5 sm:m-2 rounded-md bg-white flex justify-center align-middle">
             <h2 className="mt-10 text-center text-blue-900 text-5xl font-bold">
               100% <br />
-              <span className="text-base">Repeat Ratio</span>
+              <span className="text-base sm:text-sm">Repeat Ratio</span>
             </h2>
           </div>
 
           <div className="w-64 h-40 sm:w-36 sm:h-36 m-5 sm:m-2 rounded-md bg-white flex justify-center align-middle">
             <h2 className="mt-10 text-center text-blue-900 text-5xl font-bold">
               50+ <br />
-              <span className="text-base">Team Members</span>
+              <span className="text-base sm:text-sm">Team Members</span>
             </h2>
           </div>
         </div>

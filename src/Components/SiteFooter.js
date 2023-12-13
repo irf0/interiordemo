@@ -24,7 +24,7 @@ function SiteFooter() {
           <Call />
           +91 1234567890
         </button>
-        <button className="border-2 sm:flex sm:flex-wrap md:w-64 lg:w-64 xl:w-64 mt-3 border-white rounded-lg p-2 hover:border-orange-500 text-white">
+        <button className="border-2 md:w-64 lg:w-64 xl:w-64 mt-3 border-white rounded-lg p-2 hover:border-orange-500 text-white">
           <Email />
           abcinteriors@gmail.com
         </button>
