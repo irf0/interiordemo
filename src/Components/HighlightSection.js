@@ -4,19 +4,19 @@ import React from "react";
 function HighlightSection() {
   return (
     <div>
-      <div className="flex sm:flex-col border-2 border-orange-500 w-95vw md:h-96 lg:h-96 sm:m-2 sm:mr-2 rounded-lg bg-[#fff7eb] m-10 mr-20  relative sm:p-3 sm:px-6">
+      <div className="flex sm:flex-col border-2 border-orange-500 w-95vw md:h-96 lg:h-96 sm:m-2 sm:mr-2 rounded-lg bg-[#fff7eb] m-10 mr-20  relative sm:p-3">
         <img
           src="/assets/banner1.webp"
           alt="banner1"
           className="bg-contain rounded-md"
         />
-        <div className="m-10 flex">
+        <div className="m-10 sm:m-2 flex">
           <img
             src="/assets/design.svg"
             alt=""
             className="h-20 w-20 mr-10 sm:h-10 sm:w-10 sm:mr-1"
           />
-          <div className="flex-col text-left flex-wrap overflow-hidden">
+          <div className="flex-col sm:ml-1 text-left flex-wrap overflow-hidden">
             <h1 className="text-2xl sm:text-lg text-[#100987] font-bold">
               Design & Build
             </h1>

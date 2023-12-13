@@ -23,7 +23,7 @@ function HomeCarousel() {
         <img
           src="/assets/4g.webp"
           alt="Your Image"
-          className="w-full h-600 opacity-60"
+          className="w-full h-600 sm:h-340 opacity-60"
         />
         <div className="absolute top-1/3 mt-24 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white text-center justify-center align-middle rounded-md">
           <div className="sm:mt-1">
